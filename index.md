@@ -1,7 +1,6 @@
 
 ## Intoduction
 - 👋 Hi, I’m @HareshPrajapati , professional **Embedded firmware and system Engineer**
-- 👉 Experienced Embedded firmware and system Engineer with a demonstrated history of working in the electrical and electronic manufacturing industry
 - 👀 I’m interested in Embedded firmware development
 - 💞️ I’m looking to collaborate on embedded IoT solutions and projects
 - 📫 you can contact me on **sondagarharesh@gmail.com** or call or whatsapp on **+91 78200 17492**
