@@ -3,7 +3,7 @@ logo: /assets/img/logo.png
 email: Sondagarharesh@gmailcom
 description: Experienced Embedded firmware and system Engineer with a demonstrated history of working in the electrical and electronic manufacturing industry
 favicon: true
-color-scheme: black
+color-scheme: dark
 
 plugins:
   - jekyll-sitemap
