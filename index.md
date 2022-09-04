@@ -1,31 +1,30 @@
-
 ## Intoduction
-- 👋 Hi, I’m @HareshPrajapati , professional **Embedded firmware and system Engineer**
-- 👀 I’m interested in Embedded firmware development
-- 💞️ I’m looking to collaborate on embedded IoT solutions and projects
-- 📫 you can contact me on **sondagarharesh@gmail.com** or call or whatsapp on **+91 78200 17492**
+- 👋 Hi, I’m @sondagarketan , professional **Full Stack Web Developer**
+- 👀 I’m interested in Web development
+- 💞️ I’m looking to collaborate on Web Development Projects
+- 📫 you can contact me on **sondagarketan1999@gmail.com** or call or whatsapp on **+91 87583 92597**
 
 
 ## Education
-### 2012 S.S.C with Science
+### 2013 S.S.C 
 - Gujarat Secondary and Higher Secondary Education Board (GSHSEB)
-- 84.02 Percentage
+- 52.50 Percentage
 
 
-### 2014 H.S.C with Science
+### 2015 H.S.C 
 - Gujarat Secondary and Higher Secondary Education Board (GSHSEB)
-- 62.61 Percentage
+- 46.50 Percentage
 
 
-### 2018 B.E in Eletronics and Communication Engineering
-- Dr. S.& S. S. Ghandhy Government Engineering College, Surat
-- Gujarat Technological University (GTU)
-- 7.56 CGPA
+### 2018 BCA-betrothal of computer application
+- swaminarayan gurukul - taravada
+- saurashtra university
+- 7.61 CGPA
 
 
-## Work experience
-- 👉 I’m Currently working as a **Embedded firmware and system developer** at **MikroTroniks Solutions**.  Where my role is to development of embedded firmware using c/c++ and different  programming language and also debug and testing of systems.
-- 👉 During my professional career , I have worked Firmware Development projects for various Microcontrollers, Microprocessors, System-on-Chips, and System-on-Modules.
+## Total Work experience (4.5 Year)
+- 👉 I’m Currently working as a **Full Stack Web developer** at **NIC - Daman (Government of India) **.  Where my role is to development of Website using C# and PHP and different  programming language and also debug and testing of systems.
+- 👉 During my professional career , I have worked on Web Development projects for various Ecommerce sites, Admin Panels, And Web API.
 
 <h3>Projects:</h3>
 <table style="width:fit-content; border: 1px solid;">
@@ -35,24 +34,29 @@
     <th> Info </th>
   </tr>
   <tr style="width:fit-content; border: 1px solid;">
-    <td> Stepper Motor Movement Controller  </td>
-    <td> Stepper motor driver + Atsam Arduino Due microcontroller </td>
-    <td> Control 16 steper motors speed and on/off timings using ATSAM </td>
+    <td> TASK MANAGEMENT SYSTEM </td>
+    <td> Mywarrantys </td>
+    <td> Web Design and Web Developing Using C# </td>
   </tr>
   <tr style="width:fit-content; border: 1px solid;">
-    <td> IoT device (Scheduler) </td>
-    <td> ESP8266 + RTC </td>
-    <td> Perform specific event on timer/alarm </td>
+    <td> TASK MANAGEMENT SYSTEM </td>
+    <td> IGoal </td>
+    <td> Web Design and Web Developing Using C# </td>
   </tr>
   <tr style="width:fit-content; border: 1px solid;">
-    <td> Duet 3D printer Devlopment </td>
-    <td> ATSAMD MCUs </td>
-    <td> Implemented/modified Source code for ATSAMD controllers with custom Command and verious interface (SD Card, USB, UART, CAN bootloader), Modified PanelDue Display GUI for 3D printer </td>
+    <td> ESCAPE ROOM MANAGEMENT </td>
+    <td> Clue Master </td>
+    <td> Web Design and Web Developing Using C# </td>
   </tr>
   <tr style="width:fit-content; border: 1px solid;">
-    <td> STM Bootloaders </td>
-    <td> STM MCUs </td>
-    <td> Implemented/modified bootloaders for STMxx controllers with custom linker and verious interface (SPI Flash, USB, UART bootloader, Bluetooth) </td>
+    <td> E-LEARNING (LMS) </td>
+    <td> Saaii </td>
+    <td> Web Design and Web Developing Using C# </td>
+  </tr>
+  <tr style="width:fit-content; border: 1px solid;">
+    <td> E-commerce </td>
+    <td> exprezo </td>
+    <td> Web Design and Web Developing Using C# </td>
   </tr>
 </table>
 
@@ -66,52 +70,32 @@
 - Good manage mental and administrative skills.
 
 ## TECHNICAL STRENGTH ON SUBJECTS:
-- Intermediate knowledge of c and c ++ programming languages.
-- Basic knowledge of java , html , css , javascript languages.
-- Basic knowledge of python.
+- Intermediate knowledge of c# , PHP and Web based programming languages.
+- Basic knowledge of jQuery , html , css , javascript languages.
+- Basic knowledge of bootstrap.
 - Oops concepts and programming logics and concepts understanding.
 - Problem solving and error handling skills.
 
 
-## I have worked on following families of Microcontrollers from various manufacturers like:
-- PIC12, PIC16, PIC18, PIC24, dsPIC30, PIC32MX, PIC32MK, PIC32MZ, and dsPIC33.
-- STM32 based microcontrollers.
-- ATSAMD based microcontrollers
-- Arm cortex M3 and M4 microcontrollers
-- Espressif 8266 , esp32 
-- Nordic nRF52
-
-## Firmware Development:
-
-- C, C++,python. 
+## I have worked on following API and Framework like:
+- Asp.Net
+- PHP
+- Entity Framework
+- sql store proceser
 
 
-## I have experience on following wireless SoCs/SoMs: 
-- BLE : nRF51/2, ESP32.
-- WiFi : ESP8266, ESP32.
-- Cellular : SIM800, SIM5320, SIM7600, QUECTEL SIM Modules.
+## Web Development:
 
+- C#, PHP, jQuery , HTML , CSS , bootstrap , javascript. 
 
-## Hardware Peripherals:
-
-- USART, SPI, I2C, I2S, CANBus, OneWire, USB OTG, USB Host, USB Device (MSD, HID, CDC, DFU), Ethernet, RTCC, ADC, DAC.
 
 ## Version Control Tools:
 
 - Git (GitLab, GitHub). 
 
-## Interfaces: 
-- USB (HID, MSD, CDC, DFU)
-- SD Card/MMC 
-- UART(Serial) 
-- SPI/I2C 
-- Ethernet 
-- Secure OTA using WiFi/BLE, 2G/3G/4G. 
+
 
 ## Languages and Tools:
-<img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" />
-<img align="left" alt="C plus plus" width="26px" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/cpp/cpp.png" />
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -125,79 +109,45 @@
     <th> Experience Level</th>
   </tr>
   <tr>
-    <td> C </td>
+    <td> C# </td>
+    <td>&#11088;&#11088;&#11088;&#11088;</td>
+  </tr>
+  <tr>
+    <td> PHP </td>
     <td>&#11088;&#11088;&#11088;&#11088;&#11088;</td>
   </tr>
   <tr>
-    <td> C++ </td>
-    <td>&#11088;&#11088;&#11088;</td>
+    <td> jQuery </td>
+    <td>&#11088;&#11088;&#11088;&#11088;&#11088;</td>
   </tr>
   <tr>
-    <td> Assembly </td>
-    <td>&#11088;&#11088;</td>
+    <td> Bootstrap </td>
+    <td>&#11088;&#11088;&#11088;&#11088;&#11088;</td>
   </tr>
   <tr>
     <td> Javascript </td>
-    <td>&#11088;&#11088;&#11088;</td>
+    <td>&#11088;&#11088;&#11088;&#11088;&#11088;</td>
   </tr>
   <tr>
     <td> HTML </td>
-    <td>&#11088;&#11088;&#11088;</td>
+    <td>&#11088;&#11088;&#11088;&#11088;&#11088;</td>
   </tr>
   <tr>
-    <td> Python </td>
-    <td>&#11088;&#11088;</td>
-  </tr>
-  <tr>
-    <td> Linker File </td>
-    <td>&#11088;&#11088;</td>
-  </tr>
-  <tr>
-    <td> Makefile </td>
-    <td>&#11088;</td>
+    <td> CSS </td>
+    <td>&#11088;&#11088;&#11088;&#11088;&#11088;</td>
   </tr>
 </table>
 
-<h3> Used controllers and MCUs:</h3>
-<table style="width:fit-content; border: 1px solid;">
- <tr>
-    <th> Provider </th>
-    <th> MCU/Boards </th>
-  </tr>
-  <tr>
-    <td> Microchip </td>
-    <td> PIC32, PIC16,  PIC24, dsPIC33, PIC18 </td>
-  </tr>
-  <tr>
-    <td> Atmel </td>
-    <td>Arduino Uno, Arduino Mega, ATtiny</td>
-  </tr>
-  <tr>
-    <td> Espressif </td>
-    <td>   ESP8266, ESP32, ESP32-CAM </td>
-  </tr>
-  <tr>
-    <td> STMicroelectronics </td>
-    <td> STM32 </td>
-  </tr>
-</table>
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HareshPrajapati&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-[![HareshPrajapati's GitHub stats](https://github-readme-stats.vercel.app/api?username=HareshPrajapati&show_icons=true&theme=radical)
+[![ketansondagar's GitHub stats](https://github-readme-stats.vercel.app/api?username=ketansondagar&show_icons=true&theme=radical)
 ](https://github.com/anuraghazra/github-readme-stats)
 
-<p ><img  src="https://github-readme-streak-stats.herokuapp.com/?user=HareshPrajapati&theme=dark" width="494" height="195"  alt="aajay5" /></p>
+<p ><img  src="https://github-readme-streak-stats.herokuapp.com/?user=ketansondagar&theme=dark" width="494" height="195"  alt="aajay5" /></p>
 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=HareshPrajapati.visitor-badge)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/harrysondagar)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/haresh-prajapati-70b690179/)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=ketansondagar.visitor-badge)
 
 <!---
-HareshPrajapati/HareshPrajapati is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ketansondagar/ketansondagar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
 

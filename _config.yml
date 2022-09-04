@@ -1,7 +1,7 @@
-title: Haresh Prajapati
+title: Ketan Sondagar
 logo: /assets/img/profile.jpg
-email: Sondagarharesh@gmail.com
-description: Experienced Embedded firmware and system Engineer with a demonstrated history of working in the electrical and electronic manufacturing industry
+email: sondagarketan1999@gmail.com
+description: Experienced Full stack Web Developer 
 favicon: true
 color-scheme: dark
 
@@ -13,8 +13,5 @@ plugins:
 platforms:
   - name: GitHub
     icon: <i class="fa-brands fa-github"></i>
-    link: https://github.com/HareshPrajapati
-  - name: LinkedIn
-    icon: <i class="fa-brands fa-linkedin"></i>
-    link: https://www.linkedin.com/in/haresh-prajapati-70b690179/
+    link: https://github.com/ketansondagar
 
