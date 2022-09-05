@@ -58,6 +58,16 @@
     <td> exprezo </td>
     <td> Web Design and Web Developing Using C# </td>
   </tr>
+  <tr style="width:fit-content; border: 1px solid;">
+    <td> Precision Mechanical Services </td>
+    <td> Precision Mechanical Services </td>
+    <td> Web Design and Web Developing Using php </td>
+  </tr>
+  <tr style="width:fit-content; border: 1px solid;">
+    <td> Kool Keith Blue Card </td>
+    <td> UNIQUE VOICES </td>
+    <td> Web Design and Web Developing Using php </td>
+  </tr>
 </table>
 
 
