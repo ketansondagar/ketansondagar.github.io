@@ -1,5 +1,5 @@
 ## Intoduction
-- 👋 Hi, I’m @sondagarketan , professional **Full Stack Web Developer**
+- 👋 Hi, I’m @sondagar ketan , professional **Full Stack Web Developer**
 - 👀 I’m interested in Web development
 - 💞️ I’m looking to collaborate on Web Development Projects
 - 📫 you can contact me on **sondagarketan1999@gmail.com** or call or whatsapp on **+91 87583 92597**
