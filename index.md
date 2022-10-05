@@ -90,6 +90,7 @@
 ## I have worked on following API and Framework like:
 - Asp.Net
 - PHP
+- Wordpress
 - Entity Framework
 - sql store proceser
 
@@ -124,6 +125,10 @@
   </tr>
   <tr>
     <td> PHP </td>
+    <td>&#11088;&#11088;&#11088;&#11088;&#11088;</td>
+  </tr>
+ <tr>
+    <td> Wordpress </td>
     <td>&#11088;&#11088;&#11088;&#11088;&#11088;</td>
   </tr>
   <tr>
