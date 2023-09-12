@@ -89,6 +89,7 @@
 
 ## I have worked on following API and Framework like:
 - Asp.Net
+- Angular
 - PHP
 - Wordpress
 - Entity Framework
@@ -122,6 +123,10 @@
   <tr>
     <td> C# </td>
     <td>&#11088;&#11088;&#11088;&#11088;</td>
+  </tr>
+ <tr>
+    <td> Angular </td>
+    <td>&#11088;&#11088;&#11088;&#11088;&#11088;</td>
   </tr>
   <tr>
     <td> PHP </td>
