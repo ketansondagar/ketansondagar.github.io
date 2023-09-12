@@ -95,7 +95,7 @@
 - Good manage mental and administrative skills.
 
 ## TECHNICAL STRENGTH ON SUBJECTS:
-- Intermediate knowledge of c# , PHP and Web based programming languages.
+- Intermediate knowledge of c# , Angular, PHP and Web based programming languages.
 - Basic knowledge of jQuery , html , css , javascript languages.
 - Basic knowledge of bootstrap.
 - Oops concepts and programming logics and concepts understanding.
@@ -113,7 +113,7 @@
 
 ## Web Development:
 
-- C#, PHP, jQuery , HTML , CSS , bootstrap , javascript. 
+- C#, Angular, PHP, jQuery , HTML , CSS , bootstrap , javascript. 
 
 
 ## Version Control Tools:
