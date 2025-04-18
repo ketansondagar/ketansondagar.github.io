@@ -76,12 +76,12 @@
  <tr style="width:fit-content; border: 1px solid;">
     <td> OneTuch </td>
     <td> MANAGEMENT SYSTEM  </td>
-    <td> Web Design Using Angular and Web Developing Using C#  </td>
+    <td> Web Design Using Reactjs and Web Developing Using C#  </td>
   </tr>
  <tr style="width:fit-content; border: 1px solid;">
     <td> Al-Marsa Tech </td>
     <td> TASK MANAGEMENT SYSTEM  </td>
-    <td> Web Design Using Angularjs and Web Developing Using C#  </td>
+    <td> Web Design Using Reactjs and Web Developing Using C#  </td>
   </tr>
 </table>
 
