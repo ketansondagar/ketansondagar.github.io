@@ -85,6 +85,20 @@
   </tr>
 </table>
 
+Projects Summary :
+As a developer, I have successfully delivered 15+ full-cycle software projects, ranging
+from fintech trading systems to educational platforms and enterprise tools. My work
+focuses on building scalable, user-friendly applications with seamless data integration
+and robust role-based access.
+Highlighted Projects :
+1. Quick AlgoPlus – Fintech Trading Platform A dynamic platform designed for
+active traders, offering real-time market insights, order management, and
+strategic analysis. Tech Stack: .NET Framework, SQL Server, REST APIs,
+JavaScript
+2. University Foundation Program Platform (UFP) A web-based educational
+platform supporting a one-year foundation course aimed at helping students
+enter UK universities (including Russell Group institutions). Tech Stack: .NET
+Framework, SQL Server, REST APIs, Angular
 
 ## STRENGTHS:
 - Willingness to learn.
@@ -95,7 +109,7 @@
 - Good manage mental and administrative skills.
 
 ## TECHNICAL STRENGTH ON SUBJECTS:
-- Intermediate knowledge of c# , Angular, PHP, React Js and Web based programming languages.
+- Intermediate knowledge of c# , Angular,Azure , React Js and Web based programming languages.
 - Basic knowledge of jQuery , html , css , javascript languages.
 - Basic knowledge of bootstrap.
 - Oops concepts and programming logics and concepts understanding.
@@ -105,7 +119,7 @@
 ## I have worked on following API and Framework like:
 - Asp.Net
 - Angular
-- PHP
+- Azure 
 - React Js 
 - Wordpress
 - Entity Framework
@@ -114,7 +128,7 @@
 
 ## Web Development:
 
-- C#, Angular, Reactjs, PHP, jQuery , HTML , CSS , bootstrap , javascript. 
+- C#, Angular, Reactjs, Azure, jQuery , HTML , CSS , bootstrap , javascript. 
 
 
 ## Version Control Tools:
