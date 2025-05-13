@@ -69,11 +69,6 @@
     <td> Web Design and Web Developing Using php </td>
   </tr>
  <tr style="width:fit-content; border: 1px solid;">
-    <td> QUICK ALGOPLUS PRIVATE LIMITED </td>
-    <td> Stock Trading </td>
-    <td> Web Design Using Angular and Web Developing Using C# </td>
-  </tr>
- <tr style="width:fit-content; border: 1px solid;">
     <td> OneTuch </td>
     <td> MANAGEMENT SYSTEM  </td>
     <td> Web Design Using Reactjs and Web Developing Using C#  </td>
