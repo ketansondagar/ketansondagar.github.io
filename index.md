@@ -22,7 +22,7 @@
 - 7.61 CGPA
 
 
-## Total Work experience (6 Year)
+## Total Work experience (6 Year +)
 - 👉 I’m Currently working as a **Full Stack Web developer** at **NIC - Daman (Government of India) **.  Where my role is to development of Website using C# and PHP and different  programming language and also debug and testing of systems.
 - 👉 During my professional career , I have worked on Web Development projects for various Ecommerce sites, Admin Panels, And Web API.
 
