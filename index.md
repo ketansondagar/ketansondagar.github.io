@@ -183,16 +183,4 @@ Framework, SQL Server, REST APIs, Angular
   </tr>
 </table>
 
-[![ketansondagar's GitHub stats](https://github-readme-stats.vercel.app/api?username=ketansondagar&show_icons=true&theme=radical)
-](https://github.com/anuraghazra/github-readme-stats)
-
-<p ><img  src="https://github-readme-streak-stats.herokuapp.com/?user=ketansondagar&theme=dark" width="494" height="195"  alt="aajay5" /></p>
-
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=ketansondagar.visitor-badge)
-
-<!---
-ketansondagar/ketansondagar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 
