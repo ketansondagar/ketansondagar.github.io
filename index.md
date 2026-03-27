@@ -180,7 +180,3 @@ Framework, SQL Server, REST APIs, Angular
     <td>&#11088;&#11088;&#11088;&#11088;&#11088;</td>
   </tr>
 </table>
-
-
-
-update mor UI And UX expiernace also add
