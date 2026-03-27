@@ -1,186 +1,116 @@
-## Intoduction
-- 👋 Hi, I’m @sondagar ketan , professional **Full Stack Web Developer**
-- 👀 I’m interested in Web development
-- 💞️ I’m looking to collaborate on Web Development Projects
+👋 Introduction
 
+Hi, I’m Sondagar Ketan, a passionate and results-driven Full Stack Web Developer with 6+ years of experience in designing, developing, and maintaining scalable web applications.
 
+👀 Interested in Web Development & UI/UX Design
+💼 Open to collaborating on innovative web projects
+🚀 Focused on building high-performance, user-friendly applications
+🎓 Education
+2013 – S.S.C
 
-## Education
-### 2013 S.S.C 
-- Gujarat Secondary and Higher Secondary Education Board (GSHSEB)
-- 52.50 Percentage
+Gujarat Secondary and Higher Secondary Education Board (GSHSEB)
 
+2015 – H.S.C
 
-### 2015 H.S.C 
-- Gujarat Secondary and Higher Secondary Education Board (GSHSEB)
-- 46.50 Percentage
+Gujarat Secondary and Higher Secondary Education Board (GSHSEB)
 
+2018 – BCA (Bachelor of Computer Applications)
+Swaminarayan Gurukul, Taravada
+Saurashtra University
+CGPA: 7.61
+💼 Work Experience (6+ Years)
+Full Stack Web Developer
 
-### 2018 BCA-betrothal of computer application
-- swaminarayan gurukul - taravada
-- saurashtra university
-- 7.61 CGPA
+NIC – Daman (Government of India)
 
+Developed and maintained web applications using C#, ASP.NET, PHP
+Designed scalable backend systems and REST APIs
+Worked on debugging, testing, and performance optimization
+Collaborated with cross-functional teams to deliver high-quality solutions
+🚀 Projects
+Project	Platform	Description
+Task Management System	MyWarranty	Developed using C#
+Task Management System	IGoal	Developed using C#
+Escape Room Management	Clue Master	Full-stack development
+E-Learning (LMS)	Saaii	Learning platform
+E-commerce	Exprezo	Online shopping system
+Precision Mechanical Services	PMS	PHP-based website
+Kool Keith Blue Card	Unique Voices	PHP development
+OneTouch	Management System	React + C#
+Al-Marsa Tech	Task System	React + C#
+📊 Project Summary
+Delivered 15+ full-cycle software projects
+Built applications in Fintech, E-learning, and Enterprise domains
+Focused on:
+Scalability
+Performance
+Clean UI/UX
+Secure API integration
+🔹 Highlighted Projects
 
-## Total Work experience (6 Year +)
-- 👉 I’m Currently working as a **Full Stack Web developer** at **NIC - Daman (Government of India) **.  Where my role is to development of Website using C# and PHP and different  programming language and also debug and testing of systems.
-- 👉 During my professional career , I have worked on Web Development projects for various Ecommerce sites, Admin Panels, And Web API.
+Quick AlgoPlus – Fintech Platform
 
-<h3>Projects:</h3>
-<table style="width:fit-content; border: 1px solid;">
- <tr style="width:fit-content; border: 1px solid;">
-    <th> Project </th>
-    <th> Used </th>
-    <th> Info </th>
-  </tr>
-  <tr style="width:fit-content; border: 1px solid;">
-    <td> TASK MANAGEMENT SYSTEM </td>
-    <td> Mywarrantys </td>
-    <td> Web Design and Web Developing Using C# </td>
-  </tr>
-  <tr style="width:fit-content; border: 1px solid;">
-    <td> TASK MANAGEMENT SYSTEM </td>
-    <td> IGoal </td>
-    <td> Web Design and Web Developing Using C# </td>
-  </tr>
-  <tr style="width:fit-content; border: 1px solid;">
-    <td> ESCAPE ROOM MANAGEMENT </td>
-    <td> Clue Master </td>
-    <td> Web Design and Web Developing Using C# </td>
-  </tr>
-  <tr style="width:fit-content; border: 1px solid;">
-    <td> E-LEARNING (LMS) </td>
-    <td> Saaii </td>
-    <td> Web Design and Web Developing Using C# </td>
-  </tr>
-  <tr style="width:fit-content; border: 1px solid;">
-    <td> E-commerce </td>
-    <td> exprezo </td>
-    <td> Web Design and Web Developing Using C# </td>
-  </tr>
-  <tr style="width:fit-content; border: 1px solid;">
-    <td> Precision Mechanical Services </td>
-    <td> Precision Mechanical Services </td>
-    <td> Web Design and Web Developing Using php </td>
-  </tr>
-  <tr style="width:fit-content; border: 1px solid;">
-    <td> Kool Keith Blue Card </td>
-    <td> UNIQUE VOICES </td>
-    <td> Web Design and Web Developing Using php </td>
-  </tr>
- <tr style="width:fit-content; border: 1px solid;">
-    <td> OneTuch </td>
-    <td> MANAGEMENT SYSTEM  </td>
-    <td> Web Design Using Reactjs and Web Developing Using C#  </td>
-  </tr>
- <tr style="width:fit-content; border: 1px solid;">
-    <td> Al-Marsa Tech </td>
-    <td> TASK MANAGEMENT SYSTEM  </td>
-    <td> Web Design Using Reactjs and Web Developing Using C#  </td>
-  </tr>
-</table>
+Real-time trading insights & order management
+Tech: .NET, SQL Server, REST APIs
 
-Projects Summary :
-As a developer, I have successfully delivered 15+ full-cycle software projects, ranging
-from fintech trading systems to educational platforms and enterprise tools. My work
-focuses on building scalable, user-friendly applications with seamless data integration
-and robust role-based access.
-Highlighted Projects :
-1. Quick AlgoPlus – Fintech Trading Platform A dynamic platform designed for
-active traders, offering real-time market insights, order management, and
-strategic analysis. Tech Stack: .NET Framework, SQL Server, REST APIs,
-JavaScript
-2. University Foundation Program Platform (UFP) A web-based educational
-platform supporting a one-year foundation course aimed at helping students
-enter UK universities (including Russell Group institutions). Tech Stack: .NET
-Framework, SQL Server, REST APIs, Angular
+University Foundation Program (UFP)
 
-## STRENGTHS:
-- Willingness to learn.
-- Punctual for time and work.
-- Good team working capability.
-- Good analytical and logical skills.
-- Good communication skills.
-- Good manage mental and administrative skills.
-
-## TECHNICAL STRENGTH ON SUBJECTS:
-- Intermediate knowledge of c# , Angular,Azure , React Js and Web based programming languages.
-- Basic knowledge of jQuery , html , css , javascript languages.
-- Basic knowledge of bootstrap.
-- Oops concepts and programming logics and concepts understanding.
-- Problem solving and error handling skills.
-
-
-## I have worked on following API and Framework like:
-- Asp.Net
-- Angular
-- Azure 
-- React Js 
-- Wordpress
-- Entity Framework
-- sql store proceser
-
-
-## Web Development:
-
-- C#, Angular, Reactjs, Azure, jQuery , HTML , CSS , bootstrap , javascript. 
-
-
-## Version Control Tools:
-
-- Git (GitLab, GitHub). 
-
-
-
-## Languages and Tools:
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
-<br/><br/>
-
-
-<table style="width:fit-content; border: 1px solid;">
-    <tr>
-    <th> Language/Script </th>
-    <th> Experience Level</th>
-  </tr>
-  <tr>
-    <td> C# </td>
-    <td>&#11088;&#11088;&#11088;&#11088;&#11088;</td>
-  </tr>
- <tr>
-    <td> Angular </td>
-    <td>&#11088;&#11088;&#11088;&#11088;&#11088;</td>
-  </tr>
-  <tr>
-    <td> Azure  </td>
-    <td>&#11088;&#11088;&#11088;&#11088;&#11088;</td>
-  </tr>
- <tr>
-    <td> Wordpress </td>
-    <td>&#11088;&#11088;&#11088;&#11088;&#11088;</td>
-  </tr>
-  <tr>
-    <td> jQuery </td>
-    <td>&#11088;&#11088;&#11088;&#11088;&#11088;</td>
-  </tr>
-  <tr>
-    <td> Bootstrap </td>
-    <td>&#11088;&#11088;&#11088;&#11088;&#11088;</td>
-  </tr>
-  <tr>
-    <td> Javascript </td>
-    <td>&#11088;&#11088;&#11088;&#11088;&#11088;</td>
-  </tr>
-  <tr>
-    <td> HTML </td>
-    <td>&#11088;&#11088;&#11088;&#11088;&#11088;</td>
-  </tr>
-  <tr>
-    <td> CSS </td>
-    <td>&#11088;&#11088;&#11088;&#11088;&#11088;</td>
-  </tr>
-</table>
-
-
+Education platform for UK university preparation
+Tech: .NET, Angular, SQL Server
+🎨 UI/UX Experience (NEW ✨)
+Designed modern, responsive UI using Figma-inspired workflows
+Strong understanding of:
+User-centered design (UCD)
+Wireframing & prototyping
+Visual hierarchy & typography
+Color theory & accessibility
+Built interactive and intuitive interfaces using:
+React.js & Angular
+Bootstrap & custom CSS
+Mobile-first responsive design
+Improved user experience by:
+Reducing page load time
+Enhancing navigation flows
+Creating reusable UI components
+Optimizing forms and dashboards
+💪 Strengths
+Strong problem-solving & analytical skills
+Excellent team collaboration
+Time management & punctuality
+Continuous learning mindset
+Good communication & leadership skills
+🧠 Technical Skills
+💻 Core Technologies
+C#, ASP.NET, PHP
+Angular, React.js
+JavaScript, jQuery
+HTML5, CSS3, Bootstrap
+☁️ Cloud & Tools
+Microsoft Azure
+Git (GitHub, GitLab)
+Visual Studio / VS Code
+🗄️ Database
+SQL Server
+Stored Procedures
+Entity Framework
+🔧 Frameworks & APIs
+ASP.NET MVC / Web API
+Angular
+React.js
+WordPress
+REST API Development
+📈 Expertise
+Full Stack Development
+UI/UX Design Implementation
+API Integration
+Performance Optimization
+Role-based Access Systems
+⭐ Skill Ratings
+Technology	Level
+C#	⭐⭐⭐⭐⭐
+Angular	⭐⭐⭐⭐⭐
+React.js	⭐⭐⭐⭐⭐
+Azure	⭐⭐⭐⭐⭐
+JavaScript	⭐⭐⭐⭐⭐
+HTML/CSS	⭐⭐⭐⭐⭐
+Bootstrap	⭐⭐⭐⭐⭐
